@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ghelp",
+    "slug": "ghelp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
